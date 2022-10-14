@@ -21,13 +21,13 @@
   "devDependencies": {
     "@types/koa": "^2.13.5",
     "@types/koa-bodyparser": "^4.3.8",
-    "@types/node": "18.7.23",
-    "@typescript-eslint/eslint-plugin": "5.38.1",
-    "@typescript-eslint/parser": "5.38.1",
-    "eslint": "8.24.0",
+    "@types/node": "18.8.5",
+    "@typescript-eslint/eslint-plugin": "5.40.0",
+    "@typescript-eslint/parser": "5.40.0",
+    "eslint": "8.25.0",
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-modules-newline": "0.0.6",
-    "eslint-plugin-unicorn": "44.0.0",
+    "eslint-plugin-unicorn": "44.0.2",
     "typescript": "4.8.4"
   },
   "dependencies": {

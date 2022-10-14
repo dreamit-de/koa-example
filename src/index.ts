@@ -21,7 +21,7 @@ const server = new Koa()
 server.use(bodyParser())
 
 server.use(async context => {
-    await graphqlServer.handleRequest(context.request , { 
+    await graphqlServer.handleRequestAndSendResponse(context.request , { 
         statusCode: context.response.status,
         setHeader: function(name, value) {
             context.response.set(name, value as string)
