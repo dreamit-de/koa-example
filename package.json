@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/sgohlke/koa-example#readme",
   "devDependencies": {
-    "@sgohlke/ts-base-dependencies": "1.0.7",
+    "@sgohlke/ts-base-dependencies": "1.0.9",
     "@types/koa": "2.13.6",
     "@types/koa-bodyparser": "4.3.10"
   },
