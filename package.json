@@ -24,7 +24,7 @@
     "@types/koa-bodyparser": "4.3.10"
   },
   "dependencies": {
-    "@dreamit/graphql-server": "4.2.7",
+    "@dreamit/graphql-server": "4.2.8",
     "graphql": "16.8.1",
     "koa": "2.14.2",
     "koa-bodyparser": "4.4.1"
