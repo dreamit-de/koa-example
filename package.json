@@ -21,7 +21,7 @@
   "devDependencies": {
     "@sgohlke/ts-base-dependencies": "1.0.19",
     "@types/koa": "2.13.9",
-    "@types/koa-bodyparser": "4.3.10"
+    "@types/koa-bodyparser": "4.3.11"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.2.8",
