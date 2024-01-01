@@ -28,7 +28,7 @@
   "dependencies": {
     "@dreamit/graphql-server": "4.4.0",
     "graphql": "16.8.1",
-    "koa": "2.14.2",
+    "koa": "2.15.0",
     "koa-bodyparser": "4.4.1"
   }
 }
