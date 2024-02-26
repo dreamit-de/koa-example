@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/sgohlke/koa-example#readme",
   "devDependencies": {
-    "@sgohlke/ts-base-dependencies": "1.0.26",
-    "@types/koa": "2.14.0",
+    "@sgohlke/ts-base-dependencies": "1.0.27",
+    "@types/koa": "2.15.0",
     "@types/koa-bodyparser": "4.3.12"
   },
   "dependencies": {
