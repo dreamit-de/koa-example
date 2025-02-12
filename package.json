@@ -36,7 +36,7 @@
     "@dreamit/graphql-server": "4.12.4",
     "@dreamit/graphql-testing": "0.1.1",
     "graphql": "16.10.0",
-    "koa": "2.15.3",
+    "koa": "2.15.4",
     "koa-bodyparser": "4.4.1"
   }
 }
