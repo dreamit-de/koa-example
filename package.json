@@ -25,15 +25,15 @@
     "@types/express": "5.0.1",
     "@types/koa": "2.15.0",
     "@types/koa-bodyparser": "4.3.12",
-    "@types/node": "22.14.1",
-    "oxlint": "0.16.7",
+    "@types/node": "22.15.3",
+    "oxlint": "0.16.8",
     "typescript": "5.8.3"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.13.3",
     "@dreamit/graphql-testing": "0.2.0",
-    "graphql": "16.10.0",
-    "koa": "2.16.1",
+    "graphql": "16.11.0",
+    "koa": "3.0.0",
     "koa-bodyparser": "4.4.1"
   }
 }
